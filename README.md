@@ -11,7 +11,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 - [JavaScript](./directory/JS.md)
 - [CSS](./directory/css.md)
-- [GitHub](./directory/gitHub.md)
+- [GitHub](./directory/github.md)
 - [Node.js](./directory/node.md)
 
 ---
